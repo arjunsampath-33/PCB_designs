@@ -3,7 +3,7 @@
 This project demonstrates the design and implementation of an astable multivibrator circuit.
 
 ### Working Demonstration
-▶️ Video Demo: [https://youtu.be/your_video_link_here](https://youtube.com/shorts/oKFCvnEoZa4?feature=share)
+▶️ Video Demo: [Video Link](https://youtube.com/shorts/oKFCvnEoZa4?feature=share)
 
 
 ### Contents
