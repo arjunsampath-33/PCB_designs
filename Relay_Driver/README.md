@@ -19,16 +19,3 @@ The relay driver uses a BC547 NPN transistor to control a 5V SPDT relay using a 
 - Resistors: 1kΩ, 10kΩ, 330Ω
 - LEDs: 3mm Green & Blue
 
-### Design Details
-- Designed using EasyEDA
-- Single-layer PCB with manual routing
-- Wider traces used for relay contact paths
-- Clear silkscreen labeling for easy wiring
-- Fabrication-ready Gerber files generated
-
-### Files Included
-- Schematic (PDF)
-- PCB Layout Image
-- 3D View of PCB
-- Gerber Files
-- Bill of Materials (BOM)
