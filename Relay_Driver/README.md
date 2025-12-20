@@ -2,6 +2,11 @@
 
 This project demonstrates the design of a transistor-based relay driver circuit, covering the complete PCB development workflow from schematic to fabrication-ready files.
 
+### Contents
+- Circuit Diagram
+- PCB layout designed using EasyEDA
+- 3D represntation
+  
 ### Description
 The relay driver uses a BC547 NPN transistor to control a 5V SPDT relay using a low-voltage input signal. The design includes proper base biasing, flyback diode protection, and visual status indicators for power and relay activation.
 
@@ -18,4 +23,7 @@ The relay driver uses a BC547 NPN transistor to control a 5V SPDT relay using a 
 - Diode: 1N4007
 - Resistors: 1kΩ, 10kΩ, 330Ω
 - LEDs: 3mm Green & Blue
+
+
+
 
